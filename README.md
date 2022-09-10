@@ -34,8 +34,10 @@ Para ejecutar este flow, es necesario lo siguiente
 3. Hacer clic en el boton Deploy
 
 ### Instrucciones de Operación
-
 Para ver los resultados de nuestro Flow, lo unico que necesitamos hacer es abrir la pestaña "Debug" y nos mostrara los resultados del flow.
+
+## Resultados
+A continuación se muestra una vista previa del resultado de este flow.
 ![image](https://user-images.githubusercontent.com/111893490/189471683-f091ff45-d65a-459a-8e7d-171375a12f5f.png)
 
 ## Evidencias
